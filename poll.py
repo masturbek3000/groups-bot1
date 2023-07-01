@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from buttons import *
 
-API_TOKEN = '6083458199:AAExL_5QqE4nXqetUfGjV2CPr0gQI1FwA-A'
+API_TOKEN = 'lox, use your token'
 
 logging.basicConfig(level=logging.INFO)
 
